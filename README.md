@@ -5,25 +5,26 @@ This project aims to reduce manual intervention and ensure accurate and consiste
 
 ---
 
-## 🎯 Project Objectives
-- Automate school bell ringing based on time schedules
-- Improve accuracy and reliability of bell timing
-- Reduce human error in daily school operations
+## 🎯 Project Goals
+- Control the school bell automatically according to the schedule
+- Improve the accuracy and reliability of bell timing
+- Reduce human error
 
 ---
 
 ## ⚙️ System Overview
 The system operates by comparing real-time clock data with predefined schedules.
-When the scheduled time is reached, the system automatically triggers the bell.
+When the scheduled time arrives, the system automatically rings the bell.
 
 ---
 
 ## 🧩 Components Used
-- Microcontroller (Arduino / ESP32)
-- Relay module
-- Real-Time Clock (RTC) module
-- Power supply
-- Electric bell
+- Microcontroller (Arduino)
+- Relay
+- RTC
+- LCD
+- Push Button (MENU-UP-DOWN-BACK)
+- Power supply 5V
 
 ---
 
@@ -35,17 +36,5 @@ When the scheduled time is reached, the system automatically triggers the bell.
 
 ---
 
-## 📌 Applications
-- Schools
-- Educational institutions
-- Any environment requiring scheduled alarms
-
----
-
 ## 📷 Project Media
 Photos and system diagrams will be added soon.
-
----
-
-## 📄 License
-This project is developed for educational purposes.
