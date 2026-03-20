@@ -1,2 +1,2 @@
 System Diagram
-![System Diagram](docs/system-diagram.jpg)
+![System Diagram](system-diagram.jpg)
