@@ -1,1 +1,2 @@
-System diagrams and technical documentation will be stored here.
+System Diagram
+![System Diagram](docs/system-diagram.png)
