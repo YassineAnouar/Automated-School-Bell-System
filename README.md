@@ -23,7 +23,7 @@ When the scheduled time arrives, the system automatically rings the bell.
 - Relay
 - RTC
 - LCD
-- Push Button (MENU-UP-DOWN-BACK)
+- Control Buttons (MENU-UP-DOWN-BACK)
 - Power supply 5V
 
 ---
