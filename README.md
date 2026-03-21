@@ -36,5 +36,9 @@ When the scheduled time arrives, the system automatically rings the bell.
 
 ---
 
-##  Project Media
-Photos and system diagrams will be added soon.
+##  System Diagram
+![System Diagram](System-Diagram.jpg)
+---
+
+##  Demo Video
+Watch the project in action:
