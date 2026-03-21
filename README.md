@@ -37,7 +37,8 @@ When the scheduled time arrives, the system automatically rings the bell.
 ---
 
 ##  System Diagram
-![System Diagram](System-Diagram.jpg)
+![System Diagram](docs/system-diagram.jpg)
+
 ---
 
 ##  Demo Video
