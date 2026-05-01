@@ -341,7 +341,7 @@ void menuSetDate(){
       field++;
       if (field>3) {
         rtc.setDate(day, mon, yr);
-        rtc.setDOW((Time::DayOfWeek)dow); 
+        rtc.setDOW(dow);
         lcd.clear(); lcd.setCursor(0,0); lcd.print("Date Set");
         delay(700);
         editing = false;
